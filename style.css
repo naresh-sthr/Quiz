@@ -38,10 +38,7 @@ button{
   font-size: 15px;
   transition: .2s ease-out;
 }
-button:hover{
-  background-color: green;
-  color: white;
-}
+
 .next-btn{
   width: fit-content;
   margin-inline: auto;
